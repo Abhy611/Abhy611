@@ -1,5 +1,4 @@
 - 👋 Hi, I’m ABHYUDAY SINGH @Abhy611
 - 🌱 I’m currently learning -->> Masters in AI & ML.
 - 📫 How to reach me -->> (linkedin.com/in/abhyuday-singh-9b483a200)
--  👀 I’m interested in -->> DATA (Which belongs to Science)
-- ⚡ Fun fact: 
+-  👀 I’m interested in -->> DATA & Science
