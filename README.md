@@ -29,13 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhy611&show_icons=true&theme=radical" alt="Abhyuday's GitHub stats" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhy611&theme=radical" alt="GitHub Streak" width="45%">
-</p>
 
----
 
 ## 🚀 Let's Connect & Collaborate!
 🔗 [LinkedIn](https://linkedin.com/in/abhyuday-singh-9b483a200)  
