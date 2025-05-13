@@ -39,6 +39,6 @@
 
 ## 🚀 Let's Connect & Collaborate!
 🔗 [LinkedIn](https://linkedin.com/in/abhyuday-singh-9b483a200)  
-✉️ abhyuday@example.com *(replace with your real email if you want)*
+✉️ abhyuday.singh@aaravglobal.in*
 
 ---
