@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 Currently working as an **AI Engineer**, building intelligent systems that *actually* work in production.
-- 🌱 Done my **Masters in AI & ML**, because learning never stops 🚀.
+- 🌱 Done my **Masters in AI & ML**, because learning never stops.
 - 👀 Areas of Interest: **Computer Vision**, **GANs**, **Data Science**, and anything that blends data + creativity 🎨.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abhyuday-singh-9b483a200)
 
